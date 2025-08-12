@@ -1,4 +1,16 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# LifetimeArt - Home Improvement Website
+
+This is a [Next.js](https://nextjs.org) project showcasing a modern home improvement company website with advanced animations and responsive design.
+
+## Key Features
+
+### Mobile-First Animation Approach
+
+• **Performance-Optimized Animations**: Used CSS exclusively with Framer Motion to ensure smooth animations on mobile devices.
+
+• **Conditional Animation Logic**: Implemented responsive animation strategies reduce cognitive load and improve touch interactions.
+
+• **Reduced Motion Considerations**: Implemented animation durations to maintain accessibility standards while providing sufficient visual feedback, ensuring animations feel responsive rather than sluggish on mobile devices.
 
 ## Getting Started
 
@@ -24,8 +36,8 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+-   [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+-   [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
